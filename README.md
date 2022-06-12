@@ -9,7 +9,7 @@ Animation and 3D cards are a great way to make a fun experience.
 
 | Home page | Detail page    | 
 |-----------|----------------| 
-| ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/1.png) | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/2.png) |
+| ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/2.png) | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/1.png)|
 
 
 
