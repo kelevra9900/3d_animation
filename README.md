@@ -1,16 +1,23 @@
-# cards_animation
+# 3D Cards Animation 
 
-A new Flutter project.
+This app is made for fun.
 
-## Getting Started
+# Take a look this app
 
-This project is a starting point for a Flutter application.
+Animation and 3D cards are a great way to make a fun experience.
 
-A few resources to get you started if this is your first Flutter project:
+![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home page | Detail page    |--------|----------------|----| | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/1.png) | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/2.png)
+
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
