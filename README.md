@@ -6,10 +6,8 @@ This app is made for fun.
 
 Animation and 3D cards are a great way to make a fun experience.
 
-![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/1.png)
 
-
-| Home page | Detail page    |--------|----------------|----| | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/1.png) | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/2.png)
+| Home page | Detail page    |--------|----------------| | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/1.png) | ![](https://github.com/kelevra9900/3d_animation/blob/main/screenshots/2.png)
 
 
 
